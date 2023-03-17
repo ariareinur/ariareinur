@@ -39,51 +39,7 @@
     </tr>
 </table>
 
-<table>
-    <tr>
-        <th>Branch dashboard</th>
-        <th>Tags dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704168/2b2e7b84-cd02-11e4-90f4-8dd96b21edeb.png">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704168/2b2e7b84-cd02-11e4-90f4-8dd96b21edeb.png" width="100%">
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704169/2c80beac-cd02-11e4-8940-986ea0f0d6bb.png">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704169/2c80beac-cd02-11e4-8940-986ea0f0d6bb.png" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">View and manipulate local and remote branches.</td>
-        <td width="50%">View and manipulate local and remote tags.</td>
-    </tr>
-</table>
 
-<table>
-    <tr>
-        <th>Github integration</th>
-        <th>Rebase dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704029/8fcaddbe-cd00-11e4-83b6-32276a2c2b65.gif">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704029/8fcaddbe-cd00-11e4-83b6-32276a2c2b65.gif" width="100%">
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/7017776/5ca9ceca-dcb1-11e4-8fcb-552551f7743a.gif">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/7017776/5ca9ceca-dcb1-11e4-8fcb-552551f7743a.gif" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">Reference issues and collaborators in commits.  Open files on GitHub in the browser, with lines pre-selected.</td>
-        <td width="50%"> Squash, edit, move, rebase, undo, redo.</td>
-    </tr>
-</table>
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariareinur" alt="ariareinur" /></a> </p>
 
@@ -133,9 +89,32 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buyariarainur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buyariarainur" /></a><a href="https://ko-fi.com/selleraria"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="selleraria" /></a></p><br><br>
 
-<!-- cari tau agar tidak berantakan/ cari tau buat 2 kolom -->
+<!-- cari tau agar tidak berantakan/ cari tau buat 2 kolom = Hasil invetigas kenapa berantakan kolom nya berantakan sebelumnya karena menu di posisi atas atau bawah yang tidak sejajar mengakibatkan rusaknya tampilan yang tumpang tindih -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariareinur&show_icons=true&locale=en&layout=compact" alt="ariareinur" /></p>
+<table>
+    <tr>
+        <th>Github integration</th>
+        <th>Rebase dashboard</th>
+    </tr>
+    <tr>
+        <td width="50%">
+            <a href="https://cloud.githubusercontent.com/assets/5016978/6704029/8fcaddbe-cd00-11e4-83b6-32276a2c2b65.gif">
+                <img src="https://cloud.githubusercontent.com/assets/5016978/6704029/8fcaddbe-cd00-11e4-83b6-32276a2c2b65.gif" width="100%">
+            </a>
+        </td>
+        <td width="50%">
+            <a href="https://cloud.githubusercontent.com/assets/5016978/7017776/5ca9ceca-dcb1-11e4-8fcb-552551f7743a.gif">
+                <img src="https://cloud.githubusercontent.com/assets/5016978/7017776/5ca9ceca-dcb1-11e4-8fcb-552551f7743a.gif" width="100%">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">Reference issues and collaborators in commits.  Open files on GitHub in the browser, with lines pre-selected.</td>
+        <td width="50%"> Squash, edit, move, rebase, undo, redo.</td>
+    </tr>
+</table>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariareinur&show_icons=true&locale=en&layout=compact" alt="ariareinur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariareinur&show_icons=true&locale=en" alt="ariareinur" /></p>
 

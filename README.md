@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm aria reinur</h1>
-<h3 align="center">A passionate frontend developer from Bekasi</h3>
-<img align="right" alt="Coding" width ="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<head>
+ <h1 align="center">Hi 👋, I'm aria reinur</h1>
+ <img src="https://komarev.com/ghpvc/?username=ariareinur&label=Profile%20views&color=0e75b6&style=flat" alt="ariareinur" />
+ <h3 align="center">A passionate frontend developer from Jakarta</h3>
+ <img align="right" alt="Coding" width ="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</head>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariareinur&label=Profile%20views&color=0e75b6&style=flat" alt="ariareinur" /> </p>
-
+<body>
 - 🔭 I’m currently working on **JSM**
 
 - 🌱 I’m currently learning **React**
@@ -55,6 +57,8 @@
     <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+ </body>
+ 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buyariarainur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buyariarainur" /></a><a href="https://ko-fi.com/selleraria"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="selleraria" /></a></p><br><br>
 

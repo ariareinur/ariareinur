@@ -8,7 +8,7 @@
 <body>
 - 🔭 I’m currently working on **JSM**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **Front-end**
 

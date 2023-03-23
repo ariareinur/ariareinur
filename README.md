@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **ISO 9001**
+- 👯 I’m looking to collaborate on **Front-end**
 
 - 💬 Ask me about **Programming**
 

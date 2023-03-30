@@ -73,9 +73,7 @@
 
 <table>
     <tr>
-        <th>Github integration</th>
-        <th>Rebase dashboard</th>
-    </tr>
+
     <tr>
         <td width="50%">
 
@@ -84,10 +82,7 @@
 
         </td>
     </tr>
-    <tr>
-        <td width="50%">Reference issues and collaborators in commits.  Open files on GitHub in the browser, with lines pre-selected.</td>
-        <td width="50%"> Squash, edit, move, rebase, undo, redo.</td>
-    </tr>
+
 </table>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariareinur&show_icons=true&locale=en&layout=compact" alt="ariareinur" /></p>

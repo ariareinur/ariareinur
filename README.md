@@ -72,16 +72,6 @@
 <!-- cari tau agar tidak berantakan/ cari tau buat 2 kolom = Hasil invetigas kenapa berantakan kolom nya berantakan sebelumnya karena menu di posisi atas atau bawah yang tidak sejajar mengakibatkan rusaknya tampilan yang tumpang tindih -->
 
 <table>
-    <tr>
-
-    <tr>
-        <td width="50%">
-
-        </td>
-        <td width="50%">
-
-        </td>
-    </tr>
 
 </table>
 
